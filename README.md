@@ -1,46 +1,54 @@
-# LAB-1-ATM
-## ATM and Banking SYSTEM
-### AIM: 
-To study the problem statement, SRS document and draw all the UML diagrams of ATM
-System.
-### PROBLEM STATEMENT:
-To create ATM System software that will meet the needs of the applicant and help them
-to withdraw money,deposit.
-### UML DIAGRAMS:
-USECASE DIAGRAM:
+# Exp-1 ATM & BANKING SYSTEM
+
+# AIM:
+
+To draw a UML diagram for an ATM and Banking System.
+
+# SRS (Procedure):
+
+## List of diagrams:
+
+1. Use Case Diagram
+
+2. Class Diagram
+
+3. Activity Diagram
+
+4. Package Diagram
+
+5. Communication Diagram
+
+6. Sequence Diagram
+
+## Actors Used-:
+
+1. Customer
+
+2. Manager
+
+3. ATM
+
+4. Employee
+
+# DIAGRAMS:
+## USE CASE DIAGRAM
+![image](https://github.com/user-attachments/assets/5412f665-14dc-4133-b588-40c75cc32c1c)
+
+## CLASS DIAGRAM
+![image](https://github.com/user-attachments/assets/d6ca65e9-440b-4e86-9677-de52000b2cb1)
+
+## PACKAGE DIAGRAM
+![image](https://github.com/user-attachments/assets/f45845c4-978c-4d90-822f-7e1d85f09be6)
+
+## SEQUENTIAL DIAGRAM
+![image](https://github.com/user-attachments/assets/d1a8b0b0-91b3-4159-b104-3850bd930f9f)
+
+## COMMUNICATION DIAGRAM
+![image](https://github.com/user-attachments/assets/5e8048aa-e870-428c-8972-f37686f084c0)
+
+## ACTIVITY DIAGRAM
+![image](https://github.com/user-attachments/assets/3ffc1430-994f-4c33-bbc9-a9c61a38101a)
 
 
-<img width="1240" height="877" alt="image" src="https://github.com/user-attachments/assets/a5c89510-4205-4051-838c-a8e186957853" />
-
-COMMUNICATION DIAGRAM:
-
-
-<img width="871" height="745" alt="image" src="https://github.com/user-attachments/assets/2fd4a464-e4a1-483f-9f15-4ead296b71f9" />
-
-
-
-Activity Diagram:
-
-
-<img width="1031" height="744" alt="image" src="https://github.com/user-attachments/assets/2a21b26e-f268-4271-95ee-e4d0f24813b4" />
-
-
-
-SEQUENCE DIAGRAM:
-
-
-<img width="1111" height="794" alt="image" src="https://github.com/user-attachments/assets/b15b18d8-9d27-4585-ad46-67dac245886c" />
-
-
-Class Diagram:
-
-
-
-<img width="1213" height="749" alt="image" src="https://github.com/user-attachments/assets/b888f9e6-1a1c-4f7b-a1f6-16a2a2788970" />
-
-
-
-
-
-### RESULT: 
-Thus the Atm and banking System project was executed and the output was verified.
+# RESULT:
+Thus, the UML Diagrams for an ATM and Banking System has been drawn and verified.
